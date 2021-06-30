@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nithi5676
+- 👋 Hi, I’m @nithish
 - 👀 I’m interested in ...web development, programming and latest technologies
 - 🌱 I’m currently learning ...Information technology 
 - 💞️ I’m looking to collaborate on ...web development 
